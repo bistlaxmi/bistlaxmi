@@ -14,7 +14,7 @@
 
 
  
-### Frontend Engineer Focused on Building Scalable, Production-Ready Web Applications
+### Frontend Developer | Focused on Building Scalable | Production-Ready Web Applications
 
 <p>Frontend engineer based in Nepal with experience developing scalable and maintainable web applications. Experienced in React.js, Next.js, and TypeScript, with a strong emphasis on clean component architecture, performance optimization, and delivering production-ready solutions.</p>
 
