@@ -53,19 +53,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
 
 
-<hr/>
-
- ### GitHub Streak  
-
-<div align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bistlaxmi&" alt="bistlaxmi" /></p>
-
-</div>
-
-<br/>
-
-
 <div align="center">
 Thanks for visiting my profile!
 
